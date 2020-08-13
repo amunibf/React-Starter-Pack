@@ -1,0 +1,4 @@
+{
+    "mongoURI" : "mongodb+srv://amunibf:MSvbvm60!@@cluster0-tbmj2.mongodb.net/traversy?retryWrites=true&w=majority",
+    "jwtSecret" : "secret"
+}
